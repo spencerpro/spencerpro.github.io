@@ -6,8 +6,7 @@ description: A D&D 5e Campaign played on Maury Island
 markdown: kramdown
 google_analytics: G-DF49WTWXBJ
 
-#theme: minima
-theme: jekyll-theme-midnight
+theme: jekyll-theme-modernist
 
 plugins:
   - jekyll-remote-theme
