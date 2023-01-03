@@ -1,7 +1,7 @@
 domain: hub.proffit.net
 url: https://hub.proffit.net
 #baseurl: /REPOSITORY-NAME/      # place folder name if the site is served in a subfolder
-title: The Myrinathian Frontier docs
+title: The Myrinathian Frontier root
 description: A D&D 5e Campaign played on Maury Island
 markdown: kramdown
 google_analytics: G-DF49WTWXBJ
