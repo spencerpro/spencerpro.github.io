@@ -11,9 +11,7 @@ author:
 markdown: kramdown
 google_analytics: G-DF49WTWXBJ
 
-#remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
-#remote_theme: poole/lanyon
-remote_theme: CloudCannon/vonge-jekyll-bookshop-template
+remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 
 plugins:
   - jekyll-remote-theme
