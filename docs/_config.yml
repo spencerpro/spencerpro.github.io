@@ -4,5 +4,9 @@ url: https://hub.proffit.net
 title: The Myrinathian Frontier
 description: A D&D 5e Campaign played on Maury Island
 markdown: kramdown
-theme: midnight
 google_analytics: G-DF49WTWXBJ
+
+theme: midnight
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+  - jekyll-remote-theme
