@@ -1,6 +1,6 @@
---
+---
 title: Sessions
---
+---
 <ul>
   {% for post in site.posts %}
     <li>
