@@ -1,3 +1,6 @@
+---
+title: Home
+---
 # initial content
 
 ## v5
