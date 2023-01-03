@@ -12,7 +12,7 @@ markdown: kramdown
 google_analytics: G-DF49WTWXBJ
 
 #remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
-#remote_theme: "poole/lanyon@1.1.0"
+remote_theme: "poole/lanyon@1.1.0"
 
 plugins:
   - jekyll-remote-theme
