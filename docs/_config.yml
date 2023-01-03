@@ -6,7 +6,8 @@ description: A D&D 5e Campaign played on Maury Island
 markdown: kramdown
 google_analytics: G-DF49WTWXBJ
 
-theme: modernist
+# architect, cayman, dinky, hacker, leap-day, merlot, midnight, minimal, modernist
+theme: architect
 plugins:
   - jekyll-remote-theme
   - jekyll-titles-from-headings
