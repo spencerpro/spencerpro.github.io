@@ -11,7 +11,7 @@ author:
 markdown: kramdown
 google_analytics: G-DF49WTWXBJ
 
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 
 plugins:
   - jekyll-remote-theme
