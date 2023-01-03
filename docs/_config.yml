@@ -2,7 +2,12 @@ domain: hub.proffit.net
 url: https://hub.proffit.net
 #baseurl: /REPOSITORY-NAME/      # place folder name if the site is served in a subfolder
 title: The Myrinathian Frontier
-description: A D&D 5e Campaign played on Maury Island
+description: A D&D 5e Campaign played on Maury Island, setting created by Joe S.
+author:
+  name: Spencer P.
+  email: spencer.proffit@gmail.com
+
+
 markdown: kramdown
 google_analytics: G-DF49WTWXBJ
 
